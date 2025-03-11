@@ -1,4 +1,4 @@
-# Отчет по практической работе
+![3 3 1](https://github.com/user-attachments/assets/ec63b2f6-ecb8-479b-b0c1-fb02e5fab3c6)# Отчет по практической работе
 
 ## Глава 1. Настройка среды разработки Android Studio
 
@@ -33,7 +33,7 @@
 
 Было проделано создание нового проекта в Android Studio. Для этого необходимо открыть окно приветствия Android Studio и активировать кнопку «New Project». На экране выбора макета приложения был выбран шаблон «Empty Views Activity».
 
-![2 1](https://github.com/user-attachments/assets/d8beae84-f48e-43fc-872c-3dbcbd984bbd)
+![2 1](https://github.com/user-attachments/assets/693d7acc-e859-4935-b4d6-4ebf62714f3a)
 Рисунок 2.1 – экран выбора макета приложения
 
 После выбора шаблона необходимо определить параметры проекта:
@@ -50,7 +50,7 @@
 
 Был изучен интерфейс среды разработки Android Studio. В процессе создания нового модуля или проекта автоматически генерируется множество файлов и папок. В левой панели Android Studio размещена структура проекта. Проект можно представить двумя основными способами: «Android» (обобщенный) и «Project» (подробный).
 
-![2 2](https://github.com/user-attachments/assets/3ee0a7f4-2480-47a7-83a7-5abd9d872189)
+![2 2](https://github.com/user-attachments/assets/dfdb0c97-be1f-4529-84c0-e8472de02f69)
 Рисунок 2.2 – меню проекта
 
 Файл «AndroidManifest.xml» является важной частью приложения, так как определяет структуру и метаданные проекта, его компоненты и требования. Директория с исходным кодом `src` разделена на две части: кодовая база приложения и код для тестов. Папка `res/values` используется для хранения значений ресурсов цвета, стилей, размеров и т.д.
@@ -59,26 +59,26 @@
 
 Было проделано создание эмулятора Android устройства для тестирования приложения. Для этого необходимо перейти в настройки эмулятора и создать новое виртуальное устройство.
 
-![2 3 1](https://github.com/user-attachments/assets/d0137e60-5a02-4ee5-bd7d-9a9a17b373d9)
+![2 3 1](https://github.com/user-attachments/assets/f236b204-caa6-401b-9e09-d350bb733ab4)
 Рисунок 2.3.1 – экран менеджера виртуальных устройств
 
-![2 3 2](https://github.com/user-attachments/assets/ffaf0f5f-6d99-409e-8f1f-9ce745fb4424)
+![2 3 2](https://github.com/user-attachments/assets/026774d0-e669-415c-a39d-aec58d2ae9a2)
 Рисунок 2.3.2 – экран настройки виртуального устройства
 
-![2 3 3](https://github.com/user-attachments/assets/bd0c1d6c-3012-48d8-994b-ce047c7b0f64)
+![2 3 3](https://github.com/user-attachments/assets/615103c4-efc1-45cf-bb0d-4e0e5076f927)
 Рисунок 2.3.3 – выбор образа системы
 
-![2 3 4](https://github.com/user-attachments/assets/d70edef5-a1d2-4a04-ab12-75955c986287)
+![2 3 4](https://github.com/user-attachments/assets/9466048c-de02-4ad2-9cce-1043f6fe4005)
 Рисунок 2.3.4 – экран конфигурирования эмулятора
 
-![2 3 5](https://github.com/user-attachments/assets/be4ccc1b-a690-4660-8a36-65261c415f74)
+![2 3 5](https://github.com/user-attachments/assets/1964a759-a2f6-449c-9bcd-8d5054fb754b)
 Рисунок 2.3.5 – внешний вид эмулятора Pixel 9
 
 ### 2.4 Запуск приложения
 
 Был проделан запуск приложения на созданном эмуляторе. Для этого необходимо выбрать соответствующий модуль в выпадающем списке, выбрать запущенный эмулятор и нажать кнопку «Run».
 
-![2 4](https://github.com/user-attachments/assets/3d56b8be-01c6-4f71-8506-cd1e88882001)
+![2 4](https://github.com/user-attachments/assets/8cb88682-a579-4055-89e3-7007842a79ec)
 Рисунок 2.4 – панель управления
 
 
@@ -100,7 +100,7 @@
 
 Было изучено связывание Java-кода с элементами интерфейса. Для этого каждому элементу интерфейса присваивается уникальный идентификатор с помощью атрибута `android:id`. После установки идентификатора к элементу можно обращаться через код с помощью метода `findViewById(R.id.your_value)`.
 
-![3 2](https://github.com/user-attachments/assets/160cac4d-109b-4c4a-8f77-649bddbabae8)
+![3 2](https://github.com/user-attachments/assets/75200f0e-b365-487a-bf23-cdbcfd443147)
 Рисунок 3.2 – панель управления
 
 ### 3.3 Редактирование интерфейса в Android Studio
@@ -109,12 +109,12 @@
 
 Панель «Palette» содержит список стандартных «View» компонентов, которые можно добавить на экран, таких как кнопки, поля ввода и т.д. Панель «Component Tree» отображает иерархию «View» компонентов экрана, а панель «Attributes» позволяет настраивать свойства выбранного компонента.
 
-![3 3 1](https://github.com/user-attachments/assets/c2bfcdbe-fd94-4b4f-8275-fd2062e01ec1)
+![3 3 1](https://github.com/user-attachments/assets/995f7eaf-c848-40a2-b19e-ba449844f62d)
 Рисунок 3.3.1 – экран редактирования разметки
 
 Был добавлен элемент TextView на экран и изменен отображаемый текст
 
-![3 3 2](https://github.com/user-attachments/assets/236c9973-a7b9-4d5f-9597-223663434038)
+![3 3 2](https://github.com/user-attachments/assets/092e7835-42b0-4831-a683-1f4e6c6348a1)
 Рисунок 3.3.2 – добавление TextView
 
 
@@ -152,8 +152,8 @@
 - **RelativeLayout** – позволяет настраивать положение элементов относительно других элементов.
 - **FrameLayout** – все дочерние элементы прикрепляются к верхнему левому углу экрана.
 - **ConstraintLayout** – размещение элементов путем привязки к дочерним элементам или самому себе.
-
-![4 1](https://github.com/user-attachments/assets/db7bd4a4-1b19-467b-968f-48134b9f24ce)
+- 
+![4 1](https://github.com/user-attachments/assets/51b6db70-3aea-410f-a23e-fadc45c252f6)
 Рисунок 4.1 – панель выбора контейнеров компоновки
 
 ### 4.2 Контрольное задание: Создание различных типов Layout
@@ -162,28 +162,28 @@
 
 Было проделано создание файла разметки `linear_layout.xml` с использованием `LinearLayout`. В корневом элементе `LinearLayout` было установлено свойство `orientation`, которое определяет, как будут расположены дочерние элементы – горизонтально или вертикально.
 
-![4 2 1](https://github.com/user-attachments/assets/ba67664a-a338-49ea-a6e7-db9d82bcdf58)
+![4 2 1](https://github.com/user-attachments/assets/309878dd-699c-4610-85ef-82ff75fb4de5)
 Рисунок 4.2.1 – внешний вид экрана приложения LinearLayout
 
 #### 4.2.2 TableLayout
 
 Было проделано создание файла разметки `table_layout.xml` с использованием `TableLayout`. В корневой элемент `TableLayout` были добавлены три строки `TableRow`, каждая из которых содержит элементы, формирующие столбцы.
 
-![4 2 2](https://github.com/user-attachments/assets/86a85d76-3334-457a-afd0-85481b1403df)
+![4 2 2](https://github.com/user-attachments/assets/e302d613-a184-4e36-a9b4-f6d834afdcea)
 Рисунок 4.2.2 – экран TableLayout
 
 #### 4.2.3 ConstraintLayout
 
 Было проделано создание файла разметки с использованием `ConstraintLayout`. В данном контейнере элементы привязываются к другим элементам или к границам родительского контейнера. Для добавления привязки необходимо выделить элемент и перетащить круги по его бокам к границам экрана или другим элементам.
 
-![4 2 3](https://github.com/user-attachments/assets/038f2d42-8445-4aef-b0df-3655f24e6406)
+![4 2 3](https://github.com/user-attachments/assets/762cbfb2-8b14-4990-9b8e-c9c7d31fed85)
 Рисунок 4.2.3 – компонент «TextView» в контейнере «ConstraintLayout»
 
 ### 4.3 Задание: Создание собственного экрана
 
 Было проделано создание собственного экрана с использованием изученных элементов. В рамках задания был создан новый модуль `control_lesson1`, в котором были добавлены следующие элементы:
 
-![4 3](https://github.com/user-attachments/assets/1870697c-f2ab-447b-92b0-39790f26706f)
+![4 3](https://github.com/user-attachments/assets/32b856c6-e4c5-48f2-bf36-bb96ad7412be)
 Рисунок 4.3 – задание
 
 
@@ -211,24 +211,24 @@
 
 Была изучена работа с ориентацией экрана. Существует два режима отображения приложения на мобильном устройстве: портретный и альбомный. Для обеспечения корректного отображения приложения в обоих режимах необходимо создать отдельные `Layout`-файлы для каждой ориентации.
 
-![5 3 1](https://github.com/user-attachments/assets/f00e9a9e-7946-44e8-91ed-fad82e2e1061)
+![5 3 1](https://github.com/user-attachments/assets/0e9bb302-4f89-46ff-b282-907d51488d49)
 Рисунок 5.3.1 – портретная ориентация экрана
 
-![5 3 2](https://github.com/user-attachments/assets/da43ff96-192a-4249-9006-9c86215baaa5)
+![5 3 2](https://github.com/user-attachments/assets/2fea7f7d-457d-4622-8b7a-93f9f4950564)
 Рисунок 5.3.2 – создание land-файла
 
 ### 5.4 Задание: Изменение расположения кнопок в горизонтальной ориентации
 
 Было проделано изменение расположения кнопок в файле `activity_second.xml (land)` для горизонтальной ориентации экрана.
 
-![5 4](https://github.com/user-attachments/assets/c3a307bd-c378-4bad-81ef-d596a6f6ebe0)
+![5 4](https://github.com/user-attachments/assets/5b7ad63e-92f3-4626-8ce6-362f46022326)
 Рисунок 5.4 – изменение расположения кнопок
 
 ### 5.5 Задание: Добавление горизонтальной разметки в модуль «control_lesson1»
 
 Было проделано добавление горизонтальной разметки в модуль `control_lesson1`. Для этого был создан новый `Layout`-файл `activity_main.xml (land)`.
 
-![5 5](https://github.com/user-attachments/assets/ab6582e8-6324-4aa4-9147-5c4e0aa29b22)
+![5 5](https://github.com/user-attachments/assets/d248fb9e-4275-4cb6-ba13-87d3aaccb22a)
 Рисунок 5.5 – добавление горизонтальной разветки в модуль
 
 
@@ -280,15 +280,15 @@
 - Две кнопки: 
   - **WhoAmI** с идентификатором `id="@+id/btnWhoAmI"`.
   - **ItIsNotMe** с идентификатором `id="@+id/btnItIsNotMe"`.
-
-![7 2](https://github.com/user-attachments/assets/4237d614-0688-4313-bfc4-6b31400f3e9d)
+  - 
+![7 2](https://github.com/user-attachments/assets/d605f42f-15ff-4ce3-bf44-0af8dccc7e99)
 Рисунок 7.2 – экран приложения «ButtonClicker»
 
 ### 7.3 Обработка событий нажатия на кнопки
 
 Было проделано создание обработчиков событий для кнопок. Для кнопки «WhoAmI» был создан обработчик, который изменяет текст в `TextView` на «Мой номер по списку № X (по журналу)». Для кнопки «ItIsNotMe» был создан обработчик, который изменяет текст на «Это не я сделал».
 
-![7 3](https://github.com/user-attachments/assets/ec791a71-fd2d-4ef9-8e71-d09913bf1752)
+![7 3](https://github.com/user-attachments/assets/7328fa21-4b73-4b58-9f81-c67cee7dc399)
 Рисунок 7.3 – обработчики событий
 
 ### 7.4 Альтернативный способ обработки событий
@@ -299,12 +299,12 @@
 
 Был создан обработчик события с использованием атрибута `onClick` в XML-файле.
 
-![7 4](https://github.com/user-attachments/assets/00adfa57-c447-4b77-b258-92a307abb13a)
+![7 4](https://github.com/user-attachments/assets/6239bbe1-8f66-4c07-88e8-2cfd0e42c59b)
 Рисунок 7.4.1 – обработчики событий вторым способом
 
 ### 7.5 Задание: Добавление элемента «CheckBox»
 
 Было проделано добавление элемента `CheckBox`, который изменяет свое состояние при нажатии на кнопки вместе с `TextView`. Для этого в XML-файл был добавлен элемент `CheckBox`, а в обработчиках событий кнопок был добавлен код для изменения состояния `CheckBox`.
 
-![7 5](https://github.com/user-attachments/assets/f27ab1f3-f869-42b6-962e-7c8c9b2db042)
+![7 5](https://github.com/user-attachments/assets/0559c181-2500-4836-bf76-94e311da0153)
 Рисунок 7.5 – обработчики событий
