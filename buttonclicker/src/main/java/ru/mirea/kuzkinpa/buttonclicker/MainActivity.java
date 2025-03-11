@@ -43,6 +43,17 @@ public class MainActivity extends AppCompatActivity {
         };
         btnWhoAmI.setOnClickListener(oclBtnWhoAmI);
 
+        View.OnClickListener oclbtnItIsNotMe = new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                flag = false;
+                textViewStudent.setText("Это не я сделал");
+                cbYesIAm.setText("ВЫКЛ");
+                cbYesIAm.setChecked(flag);
+            }
+        };
+        btnItIsNotMe.setOnClickListener(oclbtnItIsNotMe);
+
 
 
         View.OnClickListener oclCheckBox = new View.OnClickListener() {
