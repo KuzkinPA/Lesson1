@@ -1,4 +1,4 @@
-![3 3 1](https://github.com/user-attachments/assets/ec63b2f6-ecb8-479b-b0c1-fb02e5fab3c6)# Отчет по практической работе
+# Отчет по практической работе
 
 ## Глава 1. Настройка среды разработки Android Studio
 
